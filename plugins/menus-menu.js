@@ -22,7 +22,7 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = ` 
-     Costeño.X⚙️
+     𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴⚙️
 
    𝐇𝐨𝐥𝐚, ${taguser}
 
