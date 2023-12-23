@@ -10,16 +10,16 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045', ' Costeño.X ⚙️', false],
-  ['528683088045', ' Costeño.X ⚙️', true],
-  ['528683088045','  Costeño.X ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', false],
+  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045','  𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
   ['528683088045'],
   ['528683088045'],
   ['528683088045'],
@@ -36,12 +36,12 @@ global.owner = [
 global.suittag = ['528683088045'];
 global.prems = ['528683088045'];
 
-global.packname = 'Costeño.X ⚙️';
-global.author = 'Costeño.X ⚙️';
-global.wm = 'Costeño.X ⚙️';
-global.titulowm = 'Costeño.X ⚙️';
-global.titulowm2 = `Costeño.X ⚙️`
-global.igfg = 'Costeño.X ⚙️';
+global.packname = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
+global.author = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
+global.wm = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
+global.titulowm = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
+global.titulowm2 = `𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️`
+global.igfg = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
 global.wait = '*❗ Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Larios.PNG');
@@ -62,9 +62,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ Costeño.X ⚙️`;
+global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️`;
 global.gt = 'Costeño.X ⚙️';
-global.mysticbot = ' Costeño.X ⚙️';
+global.mysticbot = ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
 global.md = 'https://github.com/Bots-Larios/Larios-V2.0';
 global.mysticbot = 'https://github.com/Bots-Larios/Larios-V2.0';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
