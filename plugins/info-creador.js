@@ -5,10 +5,9 @@ const handler = async (m, {conn, usedPrefix}) => {
 𝙴𝚂 wa.me/528683088045
 
 
-
-𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 12 𝙴𝚂 wa.me/528683088045*`.trim();
+*`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com/Bots-Larios/Larios-V2.0`},
+    'document': {url: `https://github.com`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
