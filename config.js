@@ -10,25 +10,25 @@ import moment from 'moment-timezone';
 global.botnumber = ""
 
 global.owner = [
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528144380007', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', false],
-  ['528683088045', ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
-  ['528683088045','  𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️', true],
+  ['528683088045', ' BU ⚙️', true],
+  ['525587037692', ' DANIEL⚙️', true],
+  ['528683088045', ' BU ⚙️', true],
+  ['525587037692', ' DANIEL ⚙️', true],
+  ['528683088045', ' BU ⚙️', true],
+  ['525587037692', ' DANIEL ⚙️', true],
+  ['528683088045', ' BU ⚙️', true],
+  ['525587037692', ' DANIEL ⚙️', false],
+  ['528683088045', ' BU ⚙️', true],
+  ['528683088045','  BU ⚙️', true],
   ['528683088045'],
   ['528683088045'],
+  ['525587037692'],
   ['528683088045'],
   ['528683088045'],
-  ['528683088045'],
-  ['528683088045'],
+  ['525587037692'],
   ['528683088045'],
   ['528683088045'], 
-  ['528683088045'],  
+  ['525587037692'],  
   ['528683088045'], 
   ['528683088045']
 ];
@@ -36,12 +36,12 @@ global.owner = [
 global.suittag = ['528683088045'];
 global.prems = ['528683088045'];
 
-global.packname = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
-global.author = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
-global.wm = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
-global.titulowm = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
-global.titulowm2 = `𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️`
-global.igfg = '𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
+global.packname = 'BOT MONSTER ⚙️';
+global.author = 'BOT MONSTER ⚙️';
+global.wm = 'BOT MONSTER ⚙️';
+global.titulowm = 'BOT MONSTER ⚙️';
+global.titulowm2 = `BOT MONSTER ⚙️`
+global.igfg = ' BOT MONSTER⚙️';
 global.wait = '*❗ Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 
 global.imagen1 = fs.readFileSync('./Larios.PNG');
@@ -62,15 +62,15 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️`;
-global.gt = 'Costeño.X ⚙️';
-global.mysticbot = ' 𝙱𝚄 𝚇 𝙳𝙰𝙵𝙽𝙴 ⚙️';
+global.wm2 = `▸ ${dia} ${fecha}\n▸ BOT MONSTER`;
+global.gt = 'BOT MONSTER';
+global.mysticbot = ' BOT MONSTER ';
 global.md = 'https://github.com/Bots-Larios/Larios-V2.0';
 global.mysticbot = 'https://github.com/Bots-Larios/Larios-V2.0';
 global.waitt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '5219993404349';
+global.nomorown = '528683088045';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
