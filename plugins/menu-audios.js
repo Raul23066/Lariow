@@ -20,13 +20,13 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `
-    NAJERA BOT ⚙️
+    CHAPITO BOT  ⚙️
 
    HOLA, ${taguser}
 
 SI DESEAS COMPRAR UNA METIDA DE VRGA COMUNICARTE CON MIS DUEÑOS PON .INFOCREADOR
 
-  CHAPITO BOT 
+  
 𝐌𝐞́𝐭𝐨𝐝𝐨𝐬 𝐝𝐞 𝐏𝐚𝐠𝐨:
 𝐓𝐫𝐚𝐧𝐬𝐟𝐌𝐞́𝐭𝐨𝐝𝐨𝐬 𝐝𝐞 𝐏𝐚𝐠𝐨:
 𝐓𝐫𝐚𝐧𝐬𝐟𝐞𝐫𝐞𝐧𝐜𝐢𝐚 𝐌𝐞́𝐱𝐢𝐜𝐨, 𝐏𝐚𝐲𝐩𝐚𝐥
