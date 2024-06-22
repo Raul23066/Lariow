@@ -2,12 +2,14 @@ const handler = async (m, {conn, usedPrefix}) => {
   const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const text = ` 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴 𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁 
-𝙴𝚂 wa.me/528683088045
+𝙴𝚂 wa.me/525587037692
+   wa.me/528683088045
 
+*𝙴𝙻 𝙲𝙾𝙽𝚃𝙰𝙲𝚃𝙾 𝙴𝚂  BUSQUENME*
 
-*`.trim();
+𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 12 𝙴𝚂 NADIE ALV *`.trim();
   const buttonMessage= {
-    'document': {url: `https://github.com`},
+    'document': {url: `https://github.com/Bots-Larios/Larios-V2.0`},
     'mimetype': `application/${document}`,
     'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
     'fileLength': 99999999999999,
@@ -16,13 +18,13 @@ const handler = async (m, {conn, usedPrefix}) => {
       'forwardingScore': 200,
       'isForwarded': true,
       'externalAdReply': {
-        'mediaUrl': 'https://github.com/Bots-Larios/Larios-V2.0',
+        'mediaUrl': 'https://www.instagram.com/bu_2348?igsh=MWsyeHlzMmszNW54ZA==',
         'mediaType': 2,
         'previewType': 'pdf',
         'title': 'ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩',
         'body': wm,
         'thumbnail': imagen1,
-        'sourceUrl': 'https://www.youtube.com/channel/UCFTQZ6i-QsfYGCch9Wq-wtQ'}},
+        'sourceUrl': 'https://www.instagram.com/bu_2348?igsh=MWsyeHlzMmszNW54ZA=='}},
     'caption': text,
     'footer': wm,
     // 'buttons':[
